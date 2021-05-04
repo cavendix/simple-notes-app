@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+# dependencies:
+
+provider: ^3.0.0
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
